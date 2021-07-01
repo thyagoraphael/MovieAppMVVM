@@ -30,4 +30,4 @@ Aplicação feita pelo Raphael Cerqueira
 - Website: [https://rphlfc.github.io](https://rphlfc.github.io)
 - Youtube: [https://www.youtube.com/channel/UC7UXnCqiqsV4R9lCwKh-rwg](https://www.youtube.com/channel/UC7UXnCqiqsV4R9lCwKh-rwg)
 
-Futuro Dev iOS: ♥ Thyago Raphael :wave:
+Futuro Dev iOS: ♥  Thyago Raphael :wave:
